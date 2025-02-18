@@ -12,12 +12,9 @@
 🐣 2025.02 ~ 진행중
 
 ## 개발자 소개
-## Team
 |<img src="https://avatars.githubusercontent.com/u/56791347?v=4" width="150" height="150"/>|
 |:-:|
 |Jianny(Backend/Front)<br/>[@jianny-lee](https://github.com/jianny-lee)|
-
-<sub>[Table made by TIT](https://team-info-table.seondal.kr/)</sub>
 
 ## 기술 스택
   🐾Environment
