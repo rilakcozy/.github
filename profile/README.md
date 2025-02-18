@@ -15,9 +15,3 @@
 |<img src="https://avatars.githubusercontent.com/u/56791347?v=4" width="150" height="150"/>|
 |:-:|
 |Jianny(Backend/Front)<br/>[@jianny-lee](https://github.com/jianny-lee)|
-
-## 기술 스택
-  🐾Environment
-  - 
-  🐾Develpment
-## 주요 기능
