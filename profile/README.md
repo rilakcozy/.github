@@ -12,13 +12,12 @@
 🐣 2025.02 ~ 진행중
 
 ## 개발자 소개
-<table>
-  <tbody>
-    <tr>
-      <td align="center"><a href="https://github.com/jianny-lee"><img src="![Image](https://github.com/user-attachments/assets/aa7e1985-8eb1-4c76-9da6-f167a592703c)" width="100px;" alt=""/><br /><sub><b> 이지안 </b></sub></a><br /></td>
-    </tr>
-  </tbody>
-</table>
+## Team
+|<img src="https://avatars.githubusercontent.com/u/56791347?v=4" width="150" height="150"/>|
+|:-:|
+|Jianny(Backend/Front)<br/>[@jianny-lee](https://github.com/jianny-lee)|
+
+<sub>[Table made by TIT](https://team-info-table.seondal.kr/)</sub>
 
 ## 기술 스택
   🐾Environment
